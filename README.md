@@ -8,7 +8,7 @@ cuda 11.0
 
 pytorch 1.7.1
 
-SSD 모델 Download: https://drive.google.com/file/d/1X73RZAQ6zSZNDn_yZsXan4WULzLDVITm/view?usp=sharing
+SSD 모델 Download: https://drive.google.com/file/d/1uOK3CXN9cREZ5rmV0xQr6O96ujzl_FHt/view?usp=sharing
 
 <실행>
 
